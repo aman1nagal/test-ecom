@@ -1,0 +1,66 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+}
+.fa-solidfa-store{
+    align-self: center;
+}
+.header-lobo{
+    display: flex;
+    width: 200px;
+    flex-direction: row;
+    align-items: center;
+}
+.header-searchbar{
+    background-color: blue;
+                width: 400px;
+                height: 120px;
+                position: static; 
+    
+}
+.header-nav-singnin{
+    width: 600px;
+    background-color: chocolate;
+    display: flex;
+    flex-direction: row;
+}
+.header-nav-singnin-guest{
+    background-color: rgb(143, 69, 69);
+    width: 300px;
+}
+.header-nav-singnin-basket{
+    background-color: goldenrod;
+    margin-left:50px ;
+    width: 100px;
+    height: 30px;
+    align-self: center;
+}.extra{
+    background-color: rgb(232, 215, 218);
+    width: 350px;
+    height: 80px;
+}.size{
+    background-color: rgb(173, 133, 115);
+    margin-left: 80px;
+    margin-right: 90px;
+}.size-shop{
+    background-color: rgb(146, 181, 175);
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.button{
+    margin-left: 50px;
+    margin-right:50px;
+    color: rgb(129, 137, 113);
+    background-color: aquamarine;
+}
+.imgwid{
+    width: 300px;
+}
+.imgsec{
+    display: flex;
+    flex-direction: row;
+}.flex{
+    display: flex;
+    flex-direction: column;
+}
